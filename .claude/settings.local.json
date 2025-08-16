@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(cp:*)",
+      "Bash(grep:*)",
+      "Bash(git add:*)"
+    ],
+    "additionalDirectories": [
+      "/Users/saipanyam"
+    ]
+  },
+  "enabledMcpjsonServers": [
+    "github"
+  ]
+}
